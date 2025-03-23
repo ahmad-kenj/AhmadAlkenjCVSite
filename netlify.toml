@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/CV.html"
+status = 200
